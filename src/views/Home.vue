@@ -286,7 +286,7 @@ HOW THE PROCESS OF JUSTICE IMPACTS PUBLIC ATTITUDES AND LAW ENFORCEMENT OUTCOMES
         /* opacity: .2; */
         padding: 15px 50px 15px 50px;
         position: absolute;
-        top: 20%;
+        top: 80%;
         text-align: center;
         width: 100%;
         font-size: 36px;
