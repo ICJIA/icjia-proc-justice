@@ -40,7 +40,7 @@
     <div class="row">
       <div class="col-md-12">
       <h2 class="col-head">ABOUT</h2>
-      <p> Attendees will learn about procedural justice and legitimacy in policing and how
+      <p> Attendees learned about procedural justice and legitimacy in policing and how
 the Chicago Police Department is employing their tenets to improve policecommunity
 relations.</p>
       </div>
@@ -140,7 +140,7 @@ relations.</p>
             <br>
           <h3>Related Article</h3>
             <ul>
-            <li><a href="static\documents\PJ article FINAL.pdf">PROCEDURAL JUSTICE IN POLICING:
+            <li><a href="http://www.icjia.state.il.us/articles/procedural-justice-in-policing-how-the-process-of-justice-impacts-public-attitudes-and-law-enforcement-outcomes">PROCEDURAL JUSTICE IN POLICING:
 HOW THE PROCESS OF JUSTICE IMPACTS PUBLIC ATTITUDES AND LAW ENFORCEMENT OUTCOMES</a></li>
             </ul>
             <br>
